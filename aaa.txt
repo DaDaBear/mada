@@ -1,1 +1,2 @@
 This is file aaa
+test line in file aaa
