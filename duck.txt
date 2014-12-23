@@ -1,3 +1,5 @@
 Mr. wong has a duck.
-duck can fly!
 duck's name is BINGO
+duck can not fly!
+duck can swim.
+
