@@ -1,2 +1,3 @@
 Mr. wong has a duck.
-duck can fly!
+duck can not fly!
+duck can swim.
